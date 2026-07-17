@@ -39,10 +39,10 @@ An action-adventure game heavily inspired by *The Legend of Zelda*, built entire
    ```
 3. **Open** `Main.asm` inside your simulator.
 4. **Configure the bitmap display** tool with the following specifications:
- * Unit Unit Width in Pixels: 1
- * Unit Height in Pixels: 1
- * Display Width in Pixels: 320
- * Display Height in Pixels: 240
- * Base Address: 0x10008000 (heap)
+  * Unit Unit Width in Pixels: 1
+  * Unit Height in Pixels: 1
+  * Display Width in Pixels: 320
+  * Display Height in Pixels: 240
+  * Base Address: 0x10008000 (heap)
 5. **Connect both the Bitmap Display** and the **Keyboard and Display MMIO Simulator** to the program.
 6. Assemble(compile) and Run.
