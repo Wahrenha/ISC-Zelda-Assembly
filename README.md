@@ -2,7 +2,7 @@
 
 An action-adventure game heavily inspired by *The Legend of Zelda*, built entirely from scratch in **RISC-V Assembly (32-bit)**. The project features graphic rendering through direct bitmap memory mapping displaying four different scenarios, full 2D movement with collision detection implemented using MMIO (Memory-Mapped I/O) keyboard polling, two different enemies with unique attack mechanics, store and inventory systems, a Head-up Display (HUD) showing player stats, an interactive puzzle, and a parallel MIDI multi-track soundtrack with sound effects. 
 
-The gameplay showing all features (except audio) can be watched in this [Project Demo Video]([https://youtube.com/video](https://youtu.be/O_kw-_hm8m8)).
+The gameplay showing all features (except audio) can be watched in this [Project Demo Video]([https://youtu.be/O_kw-_hm8m8]).
 
 ---
 
