@@ -40,7 +40,7 @@ This project was developed in collaboration with [Ph-567](https://github.com/Ph-
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Play
 
 1. **Download a RISC-V Simulator** that supports Keyboard and Display MMIO (such as **RARS**, **MARS**, or **Venus**).
 2. **Clone this repository** and ensure all files under `/sprites` are kept in the same directory structure:
